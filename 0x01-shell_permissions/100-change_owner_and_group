@@ -1,2 +1,2 @@
 #!/bin/bash
-own -hR Vincent staff
+chown -hR Vincent staff
